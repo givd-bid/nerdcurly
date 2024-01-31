@@ -1,4 +1,4 @@
-let x = Math.floor(Math.random() * 3)
+let x = Math.floor(Math.random() * 2)
 void console.log(x)
 
 if (x == 0) {
