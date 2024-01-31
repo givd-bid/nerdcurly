@@ -2,6 +2,7 @@
 <html>
   <head>
   <script src = "testing/click.js"></script>
+    <link rel="icon" href="/assets/nerdcurly.png">
     <title>HTML5 Runner</title>
     <link rel="stylesheet" href="/style.css">
     <script src = "/script.js"></script>
