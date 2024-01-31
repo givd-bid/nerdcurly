@@ -4,6 +4,7 @@
     document.designMode = 'on'; void 0
   </script>
   <head>
+    <link rel="icon" href="/assets/nerdcurly.png">
   <script src = "testing/click.js"></script>
     <link rel = "stylesheet" href = "pagestyles/randomstyle.css">
   </head>
