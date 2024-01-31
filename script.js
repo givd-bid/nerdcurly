@@ -59,7 +59,7 @@ function htmlrunnew(code) {
 }
 function fullpage(code) {
   try{
-    window.location.replace('/pages/scriptoutput.html?code=' + btoa(code))
+    window.open('/pages/scriptoutput.html?code=' + btoa(code))
     
   } catch (err) {
     console.log("fu")
