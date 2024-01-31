@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html id = "output">
+ <script defer>
+   let embeddeditm = document.getElementById("output");
+   let code = new URLSearchParams(window.location.search).get("code");
+   decoded = atob(code);
+   embeddeditm.innerHTML = decoded;
+ </script>
+</html>
