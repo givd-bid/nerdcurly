@@ -3,6 +3,7 @@
 
 <head>
 <script src = "testing/click.js"></script>
+    <link rel="icon" href="/assets/nerdcurly.png">
     <link rel="icon" href="https://raw.githubusercontent.com/zek-c/Securly-Kill-V111/main/IMG/insecurly%20icon.png">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
