@@ -3,6 +3,7 @@
   <head>
   <script src = "testing/click.js"></script>
     <link rel = "stylesheet" href = "/style.css">
+    <link rel="icon" href="/assets/nerdcurly.png">
     <title>Code runner</title>
   </head>
   <body>
