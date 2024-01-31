@@ -20,7 +20,7 @@ div.output {
 
   
 #nerd {
-  margin-top: 10%;
+  margin-top: 2.5%;
   margin: 15%;
   padding: 20px;
   padding-bottom: 20%;
@@ -105,4 +105,8 @@ html {
   background-image: url('assets/cow-dancing.gif');
   background-size: cover;
   
+}
+#iconnerdcurly {
+
+
 }
