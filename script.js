@@ -53,7 +53,7 @@ function htmlrunnew(code) {
     let encode = btoa(code);
     let outputbox = document.getElementById("output");
     outputbox.setAttribute("src", "/pages/scriptoutput.html?code=" + encode)} catch(err) {
-    console.log(err)
+    alert(err)
     }
   
 }
